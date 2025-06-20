@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the personal blog of [Gura Ame](https://github.com/Gura-Ame), based on [Fuwari](https://github.com/saicaca/fuwari), a lightweight and elegant blog theme.
 
-::github{repo="saicaca/fuwari"}
+::github{repo="Gura-Ame/Gura-Ame.github.io"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> ### Sources and Credits
+> - Banner: [Animated Wallpaper by Walfie](https://steamcommunity.com/sharedfiles/filedetails/?id=2350217781)  
+>   — Originally shared on Steam Workshop. For more of their work, visit [Walfie on Twitter](https://twitter.com/walfieee)
+> - Avatar: Watson Amelia's channel icon from [Watson Amelia Ch. hololive-EN](https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg)  
+>   — © Cover Corp. All rights belong to their respective owner.
