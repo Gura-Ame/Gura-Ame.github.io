@@ -9,6 +9,7 @@ import { getSortedPosts } from "@utils/content-utils";
 import { getDir, getPostUrlBySlug } from "@utils/url-utils";
 import { Icon } from "astro-icon/components";
 import { licenseConfig } from "src/config";
+import Giscus from "../../components/Giscus.svelte";
 import PostMetadata from "../../components/PostMeta.astro";
 import ImageWrapper from "../../components/misc/ImageWrapper.astro";
 import { profileConfig, siteConfig } from "../../config";
@@ -131,4 +132,5 @@ const jsonLd = {
         </a>
     </div>
 
+    <Giscus client:only />
 </MainGridLayout>
