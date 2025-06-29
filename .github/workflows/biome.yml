@@ -16,5 +16,5 @@ jobs:
         uses: biomejs/setup-biome@v2
       - name: Run Biome
         run: |
-          biome ci ./src --reporter=github
           biome format ./src --reporter=github
+          biome ci ./src --reporter=github
